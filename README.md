@@ -28,10 +28,8 @@ Bu proje, bir markette satılan meyvelerin miktarlarını içeren bir nesneyi `f
 ## Meyve Nesnesi
 
 ```javascript
-const meyveler = {
   elma: 10,
   armut: 5,
   muz: 8,
   portakal: 12,
   çilek: 6
-};
